@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="row">
-        <div class="col-sm-8">
+        <!--<div class="col-sm-8">-->
             <aside class="col-sm-4">
             {{-- ユーザ情報 --}}
             @include('users.card')
