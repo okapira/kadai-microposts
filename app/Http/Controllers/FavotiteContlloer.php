@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class UserFavotiteContlloer extends Controller
+class FavotiteContlloer extends Controller
 {
    /**
      * ユーザをお気に入りするアクション。
